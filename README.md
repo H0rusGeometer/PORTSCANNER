@@ -1,4 +1,4 @@
-Port Scanner
+##Port Scanner
 
 This is a simple port scanner written in Python. The script takes an IP address as a command line argument and scans for open ports on that IP address.
 Getting Started
